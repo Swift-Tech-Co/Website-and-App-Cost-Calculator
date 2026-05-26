@@ -1,32 +1,26 @@
 ﻿# Website and App Cost Calculator
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Swift Tech Co.](https://img.shields.io/badge/Built%20by-Swift%20Tech%20Co.-gold)](https://swifttechco.com)
-[![Category](https://img.shields.io/badge/Interactive-Tool-blue)](https://swifttechco.com)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Interactive Tool](https://img.shields.io/badge/Interactive-Tool-informational)](https://swifttechco.com) [![Swift Tech Co.](https://img.shields.io/badge/Swift%20Tech-Co.-gold)](https://swifttechco.com)
 
-**Live Demo:** [https://swift-tech-co.github.io/Website-and-App-Cost-Calculator/](https://swift-tech-co.github.io/Website-and-App-Cost-Calculator/)
-**Full guide and live version:** [https://swifttechco.com/tools/website-app-cost-calculator](https://swifttechco.com/tools/website-app-cost-calculator)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen)](https://swifttechco.com)
 
----
-
-Instant cost estimate for websites, mobile apps, e-commerce stores, web portals, and website bundles. Inputs: project type, page count, design tier, and integrations. Output: cost range in USD and estimated build timeline.
-
-Covers 7 project types from basic websites to full Website plus Mobile App bundles.
-
-## What We Build at Swift Tech Co.
-
-**FinTech Platforms** — Payment gateways, neobanks, crypto exchanges, and financial dashboards
-**Quantitative Finance** — Algorithmic trading systems, quant strategies, and institutional-grade market analysis
-**Blockchain, Crypto and DeFi** — Decentralised finance systems, smart contracts, and on-chain analytics
-**Custom Software and Mobile Apps** — iOS, Android, cross-platform apps, and enterprise systems
-**Custom Web and E-Commerce** — Websites, Shopify, WooCommerce, and fully custom storefronts
-**SaaS Platforms and Business Automation** — Multi-tenant platforms, subscription billing, and AI-powered SaaS
-**API Integration and Enterprise Architecture** — Third-party APIs, microservices, and event-driven systems
-**AI Automation and Intelligent Workflows** — Chatbots, document processing, ML pipelines, and automation systems
-**Cloud Infrastructure and DevOps** — AWS, GCP, Kubernetes, Docker, CI/CD, and production DevOps
-**Cybersecurity and Compliance** — Penetration testing, security audits, SOC 2, PCI-DSS, GDPR
-**SEO and Digital Marketing** — Technical SEO, content strategy, paid media, and conversion optimisation
+**Try it live:** [https://swift-tech-co.github.io/Website-and-App-Cost-Calculator/](https://swift-tech-co.github.io/Website-and-App-Cost-Calculator/)
+**Full guide:** [https://swifttechco.com/tools/website-app-cost-calculator](https://swifttechco.com/tools/website-app-cost-calculator)
 
 ---
 
-**[swifttechco.com](https://swifttechco.com)** | **[Book a Free Discovery Call](https://swifttechco.com/contact)**
+Instant cost estimate for websites, mobile apps, e-commerce stores, web portals, and website bundles. Select project type, page count, design tier, and integrations.
+
+Covers 7 project types from standard websites to full Website plus Mobile App bundles.
+
+**Outputs:** Cost range in USD, estimated build timeline in weeks
+
+**Related services:** [Custom Website Design](https://swifttechco.com/services/digital/custom-website-design) | [App Development](https://swifttechco.com/services/digital/app-development)
+
+---
+
+## Swift Tech Co.
+
+FinTech Platforms | Quantitative Finance | Blockchain and DeFi | Custom Software and Mobile Apps | SaaS Platforms | AI Automation | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
+
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
