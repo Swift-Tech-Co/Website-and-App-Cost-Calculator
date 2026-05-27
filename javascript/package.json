@@ -1,0 +1,12 @@
+{
+  "name": "website-app-cost-calculator",
+  "version": "1.0.0",
+  "description": "Website and app cost and timeline estimator — Swift Tech Co.",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": ["website", "app", "cost-estimation", "swift-tech-co"],
+  "license": "MIT",
+  "homepage": "https://swifttechco.com/services/software/custom-web-app-development"
+}
